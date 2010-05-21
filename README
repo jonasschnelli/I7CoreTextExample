@@ -1,0 +1,35 @@
+A tiny coretext example for the Apple iPad.
+
+
+Version
+=======
+0.1
+
+License
+=======
+BSD
+
+Changelog
+==========
+01/27/2010 – Version 0.1 - package started
+
+Author
+======
+Jonas Schnelli / include7 AG - www.include7.ch
+
+
+		     	_            __          __  _____
+			   (_)___  _____/ /_  ______/ /_/__  /
+			  / / __ \/ ___/ / / / / __  / _ \/ /
+			 / / / / / /__/ / /_/ / /_/ /  __/ /
+			/_/_/ /_/\___/_/\__,_/\__,_/\___/_/........
+
+		
+
+URL
+===
+http://github.com/jonasschnelli/I7CoreTextExample
+
+Info
+====
+Have fun while using and extending this package.
